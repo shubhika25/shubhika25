@@ -1,14 +1,15 @@
 # 👋 Hi there
 
-I'm Ha, a Data Scientist and ML Developer passionate about technology and clean design.
+I'm Shubhika , a Microsoft Certified Trainer and  a Data Scientist and ML Enthusiast passionate about technology and clean design.
 
 ---
 
 ## 🚀 Expertise
 
-- Machine Learning | Deep Learning | NLP | Computer Vision
-- Backend Dev with Python (Flask, FastAPI)
-- SQL & Data Engineering
+- Machine Learning | Deep Learning | NLP |
+- Backend Dev with Python (Flask, Django)
+- SQL and Python
+- Azure 
 
 ---
 
@@ -24,5 +25,5 @@ I'm Ha, a Data Scientist and ML Developer passionate about technology and clean 
 
 ## 📫 Connect with Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/YOUR_USERNAME)
-[![Twitter](https://img.shields.io/badge/Twitter-black?style=for-the-badge&logo=twitter)](https://twitter.com/YOUR_USERNAME)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/shubhika-singh-ab1690211)
+
